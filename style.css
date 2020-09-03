@@ -1,0 +1,47 @@
+body{
+		background-image: 
+		url(https://www.joonsquare.com/usermanage/image/business/emmanuel-mission-school-pali-5099/emmanuel-mission-school-pali-emmanuel-mission-school-pali-3.jpg);
+		
+		}
+		
+		
+.button {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 4px 30px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin: 3px 0px;
+        cursor: pointer;
+      }		
+      
+.run {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 4px 250px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin: 3px 0px;
+        cursor: pointer;
+      }	
+      
+.news {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 4px 30px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 18px;
+        margin: 3px 400px;
+        cursor: pointer;
+      }		
+      	
+      
